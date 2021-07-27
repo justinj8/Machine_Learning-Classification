@@ -1,6 +1,6 @@
 # Machine Learning - (Classification)
 
-![Credit Risk](Images/credit-risk.jpg)
+Click Homework folder to see starter code which will show both Machine Learning Models.
 
 ## Background
 

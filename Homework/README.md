@@ -1,4 +1,4 @@
-# Unit 11—Risky Business
+Risky Business
 
 ![Credit Risk](Images/credit-risk.jpg)
 
@@ -94,4 +94,4 @@ For the ensemble learners, use 100 estimators for both models.
 
 ---
 
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
